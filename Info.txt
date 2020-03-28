@@ -1,0 +1,17 @@
+KIIT MSPC Quarantine Hackfest
+
+28.03.2020
+
+Team -Brogrammers
+
+Members:
+Ritwika Pal(Lead)
+Kavya Kushwaha
+Nikhil Kumar Barik
+
+Theme: Public Space and Technology
+Problem Statement: Searching for parking space continues to be one of the major 
+contributors to traffic congestion. It is an unavoidable part of our daily lives and 
+takes up a lot of time. Devise a system that can help people save time in finding 
+parking spots.
+
